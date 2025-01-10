@@ -46,6 +46,13 @@
 
 }
 
+@font-face {
+    font-family: 'wingdinngs_regular';
+    src: url('../fonts/Wingdings-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .text-tapich {
     font-family: 'ang_tapich';
 }
